@@ -1,23 +1,26 @@
 # Data Structures with C 🚀
 
-Aa repository ma hu mara **BCA** na abhyas darmiyan shikhela badha j **Data Structures** na programs upload karis. Aa project no mukhya hetu logic building ane C programming par pakad melvavanu che.
+Welcome to my **Data Structures and Algorithms (DSA)** repository. This project is a collection of core programming concepts implemented in **C**, developed during my **BCA (Bachelor of Computer Applications)** studies.
 
-## 📌 Topics Covered
-- [x] Bubble Sort
-- [x] Singly Linked List (Insertion, Deletion, Display)
-- [ ] Doubly Linked List (Coming Soon)
-- [ ] Stack & Queue
-- [ ] Searching Algorithms (Linear & Binary)
+Building a strong foundation in DSA is my first step toward a career in **Cybersecurity**, as it helps in understanding memory management, optimization, and system logic.
 
-## 🛠️ Tools Used
-- **Language:** C
-- **Compiler:** TurboC++ / GCC
-- **Editor:** VS Code / Notepad++
+## 📌 Project Overview
+This repository serves as a personal laboratory where I implement, test, and document various data structures.
 
-## 🚀 How to Run
-1. Clone this repository.
-2. Compile the `.c` file using any C compiler.
-3. Run the generated `.exe` file.
+### 📁 Currently Implemented:
+* **Sorting Algorithms:** * `bubble_sort.c` - Standard Bubble Sort implementation.
+* **Linked Lists:** * `singly_linkedlist.c` - Supports Insertion (First, Last, Position) and Deletion.
+* **Coming Soon:**
+    * Stack & Queue implementations.
+    * Searching Algorithms (Linear and Binary Search).
+    * Tree and Graph structures.
 
----
-**Learning Journey:** Currently in 4th Semester BCA. Focus: C, Python, and Networking for Cybersecurity.
+## 🛠️ Tech Stack & Tools
+* **Language:** C
+* **Compiler:** GCC / Turbo C++
+* **Environment:** VS Code / Windows Terminal
+
+## 🚀 How to Run the Code
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/devid5111/data_structure_with_c.git](https://github.com/devid5111/data_structure_with_c.git)
