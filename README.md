@@ -1,38 +1,51 @@
-# Data Structures with C 🚀
+Data Structures with C 🚀
+Welcome to my Data Structures and Algorithms (DSA) repository. Built during my BCA studies, this project is a collection of core programming concepts implemented from scratch in C.
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository. Built during my BCA studies, this project is a collection of core programming concepts implemented from scratch in **C**. 
+Mastering these foundational concepts—especially memory management, bounds checking, and pointer logic—is a critical stepping stone toward my ultimate career focus in Cybersecurity and Networking. Understanding how data is stored and manipulated at a low level is essential for writing secure, vulnerability-free code.
 
-Mastering these foundational concepts—especially memory management, bounds checking, and pointer logic—is a critical stepping stone toward my ultimate career focus in **Cybersecurity and Networking**. Understanding how data is stored and manipulated at a low level is essential for writing secure, vulnerability-free code.
-
-## 📌 Project Overview
+📌 Project Overview
 This repository serves as my personal laboratory where I implement, test, and document various data structures and sorting algorithms.
 
-### 📁 Currently Implemented:
+📁 Currently Implemented:
+1. Searching Algorithms
 
-**1. Sorting Algorithms**
-* `bubble_sort.c` - Standard Bubble Sort implementation.
-* `shall_sort.C` - Shell Sort algorithm (utilizing gapped insertion sort for efficiency).
+binary_search.C - Efficient Binary Search implementation for sorted arrays.
 
-**2. Linked Lists**
-* `singly_linkedlist.C` - Singly Linked List supporting Insertion (First, Last, Position) and Deletion.
-* `dubly_linked_list.C` - Doubly Linked List with bidirectional pointer management (prev/next) for safe memory traversal and modification.
+2. Sorting Algorithms
 
-**3. Linear Data Structures**
-* `stack.C` - Interactive Stack (LIFO) implementation featuring strict overflow/underflow protection and real-time visual state updates.
+bubble_sort.c - Standard Bubble Sort implementation.
 
-### ⏳ Coming Soon:
-* Queues (Standard and Circular)
-* Searching Algorithms (Linear and Binary Search)
-* Tree and Graph structures
+shall_sort.C - Shell Sort algorithm (utilizing gapped insertion sort for efficiency).
 
-## 🛠️ Tech Stack & Tools
-* **Language:** C
-* **Compiler:** GCC
-* **Environment:** VS Code / Windows
+3. Linked Lists
 
-## 🚀 How to Run the Code
-```bash
-   git clone [https://github.com/devid5111/data_structure_with_c.git](https://github.com/devid5111/data_structure_with_c.git)
+singly_linkedlist.C - Singly Linked List supporting Insertion (First, Last, Position) and Deletion.
+
+dubly_linked_list.C - Doubly Linked List with bidirectional pointer management (prev/next) for safe memory traversal and modification.
+
+4. Linear Data Structures
+
+stack.C - Interactive Stack (LIFO) implementation featuring strict overflow/underflow protection and real-time visual state updates.
+
+⏳ Coming Soon:
+Queues (Standard and Circular)
+
+Linear Search
+
+Tree and Graph structures
+
+🛠️ Tech Stack & Tools
+Language: C
+
+Compiler: GCC / Turbo C
+
+Environment: VS Code / Windows
+
+🚀 How to Run the Code
+Clone the repo:
+
+Bash
+git clone https://github.com/devid5111/data_structure_with_c.git
 Navigate to the directory:
 
 Bash
@@ -40,9 +53,6 @@ cd data_structure_with_c
 Compile and run any file (using GCC):
 
 Bash
-gcc stack.C -o stack
-./stack
+gcc binary_search.C -o binary_search
+./binary_search
 (Note: Pre-compiled .exe files are also available in the repository for Windows users).
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/devid5111/data_structure_with_c.git](https://github.com/devid5111/data_structure_with_c.git)
