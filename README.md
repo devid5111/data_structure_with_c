@@ -29,8 +29,10 @@ dubly_linked_list.C - Doubly Linked List with bidirectional pointer management (
 
 stack.C - LIFO implementation featuring strict overflow/underflow protection.
 
+deque.C - Double Ended Queue supporting insertion and deletion from both Front and Rear ends.
+
 ⏳ Coming Soon:
-Queues (Standard and Circular)
+Standard Queues and Circular Queues
 
 Tree and Graph structures
 
@@ -50,9 +52,9 @@ Navigate to the directory:
 
 Bash
 cd data_structure_with_c
-Compile and run (Example: Linear Search):
+Compile and run (Example: Deque):
 
 Bash
-gcc linear_search.C -o linear_search
-./linear_search
+gcc deque.C -o deque
+./deque
 (Note: Pre-compiled .exe files are also available in the repository for Windows users).
