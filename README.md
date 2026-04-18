@@ -28,7 +28,7 @@ dubly_linked_list.C - Doubly Linked List with bidirectional pointer management (
 4. Linear Data Structures
 
 stack.C - LIFO implementation featuring strict overflow/underflow protection.
-
+`queue.C` - Standard Linear Queue implementation (FIFO).
 deque.C - Double Ended Queue supporting insertion and deletion from both Front and Rear ends.
 
 ⏳ Coming Soon:
